@@ -8,26 +8,27 @@ or
 - One server with <b>multiple</b> clients
 
 ## How to download and run
-1 Clone the repository 🔗
+1. Clone the repository 🔗
 ```
 git clone https://github.com/Umakantamaharana/pythonsocket.git
 ```
-2 Change active directory to pythonsocket ➡️
+2. Change active directory to pythonsocket ➡️
 ```
 cd pythonsocket
 ```
-3 Run the server file 🗃️
+3. Run the server file 🗃️
 ```
 python3 "discord server lite.py"
 ```
   - Now server is listening for clients to connect
-4 Run the client file 🗃️
+4. Run the client file 🗃️
 ```
 python3 "discord client.py"
 ```
   - Enter your name 📛
   - Then enjoy messaging 😃
-5 To run multiple clientss, open anathor terminal and again run the client file without closing the first client file which is running
+
+5. To run multiple clientss, open anathor terminal and again run the client file without closing the first client file which is running
 ```
 python3 "discord client.py"
 ```
